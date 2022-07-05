@@ -5,6 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I'm Frontend Developer.\
+🔨&nbsp;Stack: ReactJS, TypeSctirpt, NodeJS, Express, Mongo, JS, HTML, CSS.\
 💡 &nbsp;I like to explore new technologies and develop solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I study languages and windsurf as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
